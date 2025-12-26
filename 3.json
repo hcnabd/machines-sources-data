@@ -1,0 +1,1841 @@
+{
+  "machines": [
+    {
+      "machine_id": "electric_counterbalance_forklift",
+      "name": "Electric Counterbalance Forklift Truck",
+      "industry": "Material Handling / Warehouse",
+      "category": "Forklift Truck",
+      "description": "A battery-powered forklift with forks at the front and a heavy battery pack as a counterweight. Commonly used in warehouses for pallet handling, these forklifts typically lift 1–3 tons to heights around 3–6 meters, with zero emissions and low noise ideal for indoor use.",
+      "suppliers": [
+        {
+          "supplier_name": "Innovex Algérie",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 18000,
+          "price_high_usd": 25000,
+          "lead_time_days": 30,
+          "availability_notes": "Local distributor for electric forklifts (2.0–2.5 ton models, quote on request). Estimated price range based on market standards*",
+          "product_url": "https://innovexalgerie.com/manutention/produit/chariot-elevateur-electrique-fe4p-20-25n/"
+        },
+        {
+          "supplier_name": "ISTOC Forklift (Algeria)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 3300,
+          "price_high_usd": 3300,
+          "lead_time_days": 7,
+          "availability_notes": "Local seller offering 1.5–2.0 ton HELI electric forklifts (price ~450,000 DZD). Local stock available",
+          "product_url": "https://www.istocforklift.com/produit/chariot-elevateur-electrique-frontal-3-roues-g2-1-5-2t/"
+        },
+        {
+          "supplier_name": "Zhejiang EP Equipment Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 10000,
+          "price_high_usd": 18500,
+          "lead_time_days": 30,
+          "availability_notes": "3.0 ton lithium-battery forklift (model EFX5-301) available for export (MOQ 1 unit)",
+          "product_url": "https://ep-equipment.en.made-in-china.com/product/XEUphoDwZVRB/China-Efx5-301-Electric-Counterbalance-Forklift-Truck-with-Li-ion-Battery-3000kg.html"
+        },
+        {
+          "supplier_name": "Jinan Shine International Trade Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 8000,
+          "price_high_usd": 8000,
+          "lead_time_days": 20,
+          "availability_notes": "Chinese trading company supplying 2–3 ton electric forklifts (fast delivery ~15-20 days)",
+          "product_url": "https://shinetruck.en.made-in-china.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "reach_forklift_truck",
+      "name": "Reach Forklift Truck",
+      "industry": "Warehouse / Logistics",
+      "category": "Narrow Aisle Forklift (Reach Truck)",
+      "description": "An electric narrow-aisle forklift designed with extendable forks to 'reach' into high racking. Reach trucks typically handle 1–2 ton pallet loads and can lift them to heights of 8–12 meters while operating in tight warehouse aisles.",
+      "suppliers": [
+        {
+          "supplier_name": "STILL Algeria (FM-X Reach Trucks)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 25000,
+          "price_high_usd": 40000,
+          "lead_time_days": 45,
+          "availability_notes": "Authorized STILL dealer offering FM-X series reach trucks (lift height up to 13 m, available on order). Estimated price for premium European brand*",
+          "product_url": "https://www.still.dz/produits/chariots-neufs/chariots-retractables/fm-x.html"
+        },
+        {
+          "supplier_name": "Unimena (Jungheinrich Distributor)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 22000,
+          "price_high_usd": 38000,
+          "lead_time_days": 45,
+          "availability_notes": "Local supplier of Jungheinrich reach trucks (ETV series and others). Contact for exact pricing. Estimated range for premium brand*",
+          "product_url": "http://www.unimena.com/categorie/chariots-a-mat-retractable/"
+        },
+        {
+          "supplier_name": "Xiamen LTMG Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 8000,
+          "price_high_usd": 16000,
+          "lead_time_days": 30,
+          "availability_notes": "Manufacturer of 1.5–3.0 ton reach trucks (various mast heights up to ~10 m, 4-wheel or scissor reach designs)",
+          "product_url": "https://ltmgforklift.com/electric-reach-truck"
+        },
+        {
+          "supplier_name": "Xiamen Runtx Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 19550,
+          "price_high_usd": 22200,
+          "lead_time_days": 45,
+          "availability_notes": "Offers specialized 4-directional reach forklifts (up to ~2 ton capacity) for export (made-to-order)",
+          "product_url": "https://rtx.en.alibaba.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "order_picker_forklift",
+      "name": "Order Picker Forklift",
+      "industry": "Warehouse / Distribution",
+      "category": "Order Picking Lift Truck",
+      "description": "A specialized electric lift truck that elevates the operator on a platform to pick individual items from rack shelves. These machines allow an operator to be lifted up to around 9–10 meters high to retrieve products.",
+      "suppliers": [
+        {
+          "supplier_name": "STILL Algeria (Order Pickers)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 15000,
+          "price_high_usd": 30000,
+          "lead_time_days": 45,
+          "availability_notes": "Offers STILL low-level and high-level order pickers (OPX series, etc., available on request). Estimated price range*",
+          "product_url": "https://www.still.dz/produits/chariots-neufs/chariots-pr%C3%A9parateurs-de-commandes.html"
+        },
+        {
+          "supplier_name": "Fayalift (JLG Algeria)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 18000,
+          "price_high_usd": 35000,
+          "lead_time_days": 60,
+          "availability_notes": "Exclusive distributor of JLG mobile order pickers in Algeria (vertical man-up stock pickers, available by inquiry). Estimated price*",
+          "product_url": "http://fayalift.com/product-category/chariots-elevateurs/preparateurs-de-commandes-mobiles/"
+        },
+        {
+          "supplier_name": "New Newton (Taizhou) Forklift Truck Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 1657,
+          "price_high_usd": 2340,
+          "lead_time_days": 25,
+          "availability_notes": "Manufactures small electric order picker platforms (300 kg capacity, 2.7–4.5 m lift) with CE certification",
+          "product_url": "https://chinaforklift.en.alibaba.com/product/300kg-Order-Picker-Lift-2.7m-4.5m.html"
+        },
+        {
+          "supplier_name": "RefurbishedLifts.com (USA)",
+          "supplier_country": "United States",
+          "is_in_algeria": false,
+          "price_low_usd": 14950,
+          "price_high_usd": 14950,
+          "lead_time_days": 7,
+          "availability_notes": "Retailer offering reconditioned stand-up order picker forklifts (e.g. Crown SP series) ready for immediate shipment",
+          "product_url": "https://www.refurbishedlifts.com/category/order-picker"
+        }
+      ]
+    },
+    {
+      "machine_id": "rough_terrain_forklift",
+      "name": "Rough Terrain Forklift",
+      "industry": "Construction / Outdoor Material Handling",
+      "category": "All-Terrain Forklift Truck",
+      "description": "A heavy-duty forklift built for outdoor use on uneven or unpaved surfaces. Rough terrain forklifts feature large knobby pneumatic tires and higher ground clearance for stability on mud, gravel, or rough ground.",
+      "suppliers": [
+        {
+          "supplier_name": "Algomat (Manitou Algeria)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 35000,
+          "price_high_usd": 65000,
+          "lead_time_days": 60,
+          "availability_notes": "Official Manitou dealer in Algeria supplying 4x4 masted forklifts (e.g. Manitou M-X series) and telehandlers (available on order). Estimated price for premium brand*",
+          "product_url": "https://www.manitou.com/fr/Chariots-elevateurs-tout-terrain"
+        },
+        {
+          "supplier_name": "Tirsam Sarl (Algeria)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 25000,
+          "price_high_usd": 50000,
+          "lead_time_days": 90,
+          "availability_notes": "Local manufacturer of diesel forklifts (up to 10-ton models); offers all-terrain forklift options under TIRSAM brand. Estimated price range*",
+          "product_url": "https://tirsam.com/"
+        },
+        {
+          "supplier_name": "Shandong Chinaway Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 4580,
+          "price_high_usd": 4880,
+          "lead_time_days": 30,
+          "availability_notes": "Exports 2–5 ton off-road diesel forklifts (Goodsense or similar brand) with quick delivery (typically 1 unit minimum)",
+          "product_url": "https://cnchinaway.en.alibaba.com"
+        },
+        {
+          "supplier_name": "Qingdao Yeaweyda Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 4500,
+          "price_high_usd": 7000,
+          "lead_time_days": 35,
+          "availability_notes": "Chinese supplier offering 2WD/4WD rough terrain forklifts (2.5T–3T capacity) at competitive prices for export",
+          "product_url": "https://www.made-in-china.com/cn/yeaweyda"
+        }
+      ]
+    },
+    {
+      "machine_id": "pallet_jack",
+      "name": "Pallet Jack",
+      "industry": "Material Handling / Warehousing",
+      "category": "Hand Pallet Truck",
+      "description": "A simple wheeled industrial truck used to lift and move pallets at ground level. Pallet jacks have fork tines that slide under a pallet and a hydraulic pump handle to raise the load a few inches off the floor.",
+      "suppliers": [
+        {
+          "supplier_name": "Local Marketplace (Ouedkniss)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 290,
+          "price_high_usd": 300,
+          "lead_time_days": 1,
+          "availability_notes": "Multiple Algerian sellers offer 3-ton manual pallet jacks around 40,000 DZD (in stock for immediate pickup)",
+          "product_url": "https://www.ouedkniss.com/transpalette-manuel"
+        },
+        {
+          "supplier_name": "Azar Machines (Bejaia, DZ)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 350,
+          "price_high_usd": 500,
+          "lead_time_days": 7,
+          "availability_notes": "Imports and distributes HELI manual pallet trucks (3,000 kg capacity) and other handling equipment. Estimated price range*",
+          "product_url": "https://azarmachines.com/categorie-produit/equipement-de-manutention-pour-tous-les-besoins/transpalettes/"
+        },
+        {
+          "supplier_name": "New Newton (Taizhou) Forklift Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 230,
+          "price_high_usd": 254,
+          "lead_time_days": 15,
+          "availability_notes": "Chinese OEM offering manual pallet trucks (e.g. 2T–3T with scale) in bulk (MOQ 10 units, CE certified)",
+          "product_url": "https://chinaforklift.en.alibaba.com/product/2T-3T-Adjustable-Manual-Pallet-Jack-with-Scale.html"
+        },
+        {
+          "supplier_name": "Global Industrial (U.S.)",
+          "supplier_country": "United States",
+          "is_in_algeria": false,
+          "price_low_usd": 350,
+          "price_high_usd": 600,
+          "lead_time_days": 7,
+          "availability_notes": "Online industrial supplier with various 5500-lb (2.5 ton) pallet jacks in stock (ships within 1 business day in the U.S.)",
+          "product_url": "https://www.globalindustrial.com/c/material-handling/lift-trucks/manual-pallet-trucks"
+        }
+      ]
+    },
+    {
+      "machine_id": "cnc_lathe",
+      "name": "CNC Lathe",
+      "industry": "Manufacturing",
+      "category": "Lathe",
+      "description": "A CNC lathe is a computer-controlled turning machine tool for producing precise cylindrical parts. It rotates the workpiece on a spindle while a cutting tool removes material.",
+      "suppliers": [
+        {
+          "supplier_name": "SARL SERMO / SARL DET",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 12000,
+          "price_high_usd": 25000,
+          "lead_time_days": 60,
+          "availability_notes": "New (never used). Local distributor for CNC equipment. Estimated price range based on market standards*",
+          "product_url": "http://det-distribution.dz/"
+        },
+        {
+          "supplier_name": "CIRTAMECA",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 10000,
+          "price_high_usd": 22000,
+          "lead_time_days": 60,
+          "availability_notes": "New (never used). Algerian supplier specializing in CNC turning and machining solutions. Estimated price*",
+          "product_url": "https://dz.kompass.com/a/fraiseuses-a-commande-numerique-cnc-pour-metaux/3754017/"
+        },
+        {
+          "supplier_name": "Zhuzhou Luzhong Machine Tool Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 8750,
+          "price_high_usd": 10150,
+          "lead_time_days": 35,
+          "availability_notes": "35 days lead time (from China)",
+          "product_url": "https://www.alibaba.com/product-detail/CK6150-Cnc-Lathe-Machine-Tool-Programming_1601580538999.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "cnc_milling_machine",
+      "name": "CNC Milling Machine",
+      "industry": "Manufacturing",
+      "category": "Milling",
+      "description": "A CNC milling machine is a computer-controlled cutting tool that removes material with rotary cutters, ideal for complex shapes.",
+      "suppliers": [
+        {
+          "supplier_name": "EURL Salah LARIBI IMP/EXP",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 8000,
+          "price_high_usd": 15000,
+          "lead_time_days": 45,
+          "availability_notes": "CNC router HD1325 with vacuum (3.5 kW / 3.2 kW spindles). Estimated price for CNC router/mill*",
+          "product_url": "https://dz.kompass.com/a/fraiseuses-a-commande-numerique-cnc-pour-metaux/3754017/"
+        },
+        {
+          "supplier_name": "Ubuy (Genmitsu 4040-PRO)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 1120,
+          "price_high_usd": 1120,
+          "lead_time_days": 30,
+          "availability_notes": "Out of stock (imports from US). Desktop CNC mill",
+          "product_url": "https://ubuy.dz/en/p/lcdcnc-fraiseuse-cnc-4040-pro"
+        },
+        {
+          "supplier_name": "Shandong Luzhong Machine Tool Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 17990,
+          "price_high_usd": 20000,
+          "lead_time_days": 30,
+          "availability_notes": "30 days lead time (from China). 5-axis VMC650 CNC mill",
+          "product_url": "https://www.alibaba.com/product-detail/Vertical-Cnc-Milling-Machine-5-Axis_60818171928.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "cnc_grinding_machine",
+      "name": "CNC Grinding Machine",
+      "industry": "Manufacturing",
+      "category": "Grinding",
+      "description": "A CNC grinding machine uses a rotating abrasive wheel to remove material and achieve high-precision finishes. It can perform surface or cylindrical grinding for tight tolerances.",
+      "suppliers": [
+        {
+          "supplier_name": "WMT CNC Industrial Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 420000,
+          "price_high_usd": 420000,
+          "lead_time_days": 40,
+          "availability_notes": "40 days lead time (from China). Large 5-axis gantry machine",
+          "product_url": "https://www.alibaba.com/product-detail/MK7520X60-High-Quality-New-Medium-Duty_1601587846551.html"
+        },
+        {
+          "supplier_name": "MRCM CNC Equipment",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 849,
+          "price_high_usd": 915,
+          "lead_time_days": 25,
+          "availability_notes": "Small bench grinder for precision work. Estimated delivery time*",
+          "product_url": "https://www.alibaba.com/showroom/cnc-grinding-machine.html"
+        },
+        {
+          "supplier_name": "DHYY CNC",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 1886,
+          "price_high_usd": 1886,
+          "lead_time_days": 25,
+          "availability_notes": "Compact cylindrical grinding machine. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/cnc-grinding-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "wire_edm_machine",
+      "name": "Wire EDM Machine",
+      "industry": "Manufacturing",
+      "category": "EDM",
+      "description": "A Wire EDM (electrical discharge machining) machine uses a thin charged wire and electric sparks to cut conductive metals with extreme precision.",
+      "suppliers": [
+        {
+          "supplier_name": "Taizhou Chuang Yuan Machine Tool Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 4000,
+          "price_high_usd": 4500,
+          "lead_time_days": 30,
+          "availability_notes": "Compact wire EDM units. Estimated delivery time*",
+          "product_url": "https://www.alibaba.com/showroom/wire-edm-machine.html"
+        },
+        {
+          "supplier_name": "Zhejiang Liyu Machine Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 5500,
+          "price_high_usd": 6600,
+          "lead_time_days": 30,
+          "availability_notes": "Mid-range wire EDM machines. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/wire-edm-machine.html"
+        },
+        {
+          "supplier_name": "Shanghai Ants Machine Equipment Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 16615,
+          "price_high_usd": 18342,
+          "lead_time_days": 35,
+          "availability_notes": "High-precision wire EDM systems. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/wire-edm-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "cnc_laser_cutting_machine",
+      "name": "CNC Laser Cutting Machine",
+      "industry": "Manufacturing",
+      "category": "Laser Cutting",
+      "description": "A CNC laser cutting machine uses a high-energy laser beam to cut or engrave materials with exceptional precision. Commonly used for metal fabrication.",
+      "suppliers": [
+        {
+          "supplier_name": "DJR Import Export",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 15000,
+          "price_high_usd": 35000,
+          "lead_time_days": 60,
+          "availability_notes": "Local importer of fiber laser cutters. Contact for pricing and availability. Estimated range*",
+          "product_url": "https://djr-dz.com/produit/laser-fibre-hsgq-1530"
+        },
+        {
+          "supplier_name": "Shandong HN Laser Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 7481,
+          "price_high_usd": 10556,
+          "lead_time_days": 30,
+          "availability_notes": "Entry-level fiber laser cutters. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/fiber-laser-cutting-machine.html"
+        },
+        {
+          "supplier_name": "GWEIKE Laser Technology Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 30290,
+          "price_high_usd": 32126,
+          "lead_time_days": 35,
+          "availability_notes": "Mid-range fiber laser cutting systems. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/fiber-laser-cutting-machine.html"
+        },
+        {
+          "supplier_name": "Bodor Laser",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 123916,
+          "price_high_usd": 123916,
+          "lead_time_days": 45,
+          "availability_notes": "High-power industrial fiber laser systems. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/fiber-laser-cutting-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "salt-bath-furnace",
+      "name": "Salt Bath Furnace",
+      "industry": "Metallurgy / Heat Treatment",
+      "category": "Heat Treatment Furnaces",
+      "description": "Salt bath furnaces immerse workpieces in a molten salt solution to heat or cool them uniformly. The salt bath provides rapid heat transfer and a controlled atmosphere.",
+      "suppliers": [
+        {
+          "supplier_name": "Rebo Furnace (Shandong Rebo Electric Furnace Co., Ltd.)",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2000,
+          "price_high_usd": 2000,
+          "lead_time_days": 30,
+          "availability_notes": "Small salt bath furnaces. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/salt-bath-furnace.html"
+        },
+        {
+          "supplier_name": "Luoyang Changrui High Temperature Equipment Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 5700,
+          "price_high_usd": 6000,
+          "lead_time_days": 35,
+          "availability_notes": "Industrial salt bath furnace systems. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/salt-bath-furnace.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "box-furnace",
+      "name": "Box Furnace",
+      "industry": "Metallurgy / Heat Treatment",
+      "category": "Heat Treatment Furnaces",
+      "description": "Box furnaces (batch furnaces) are insulated chambers that heat multiple workpieces simultaneously under controlled conditions.",
+      "suppliers": [
+        {
+          "supplier_name": "Zhengzhou Brother Furnace Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 500,
+          "price_high_usd": 3000,
+          "lead_time_days": 25,
+          "availability_notes": "Various capacities available. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/countrysearch/CN/box-furnace.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "continuous-furnace",
+      "name": "Continuous Furnace",
+      "industry": "Metallurgy / Heat Treatment",
+      "category": "Heat Treatment Furnaces",
+      "description": "Continuous furnaces use a conveyor or roller system to process materials continuously, maintaining a steady flow of workpieces through the heated chamber.",
+      "suppliers": [
+        {
+          "supplier_name": "Zhengzhou Foxing Furnace Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2000,
+          "price_high_usd": 2000,
+          "lead_time_days": 40,
+          "availability_notes": "Continuous electric heat treatment furnaces. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/continuous-electric-heat-treatment-furnace.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "vacuum-furnace",
+      "name": "Vacuum Furnace",
+      "industry": "Metallurgy / Heat Treatment",
+      "category": "Heat Treatment Furnaces",
+      "description": "Vacuum furnaces operate under vacuum or inert gas to prevent contamination during heat treatment. By removing air, they eliminate oxidation and decarburization.",
+      "suppliers": [
+        {
+          "supplier_name": "Luoyang Monte Intelligent Technology Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 15000,
+          "price_high_usd": 25000,
+          "lead_time_days": 30,
+          "availability_notes": "Lead time ~30 days for 1 set. High-temp vacuum furnace series. Estimated price*",
+          "product_url": "https://www.alibaba.com/product-detail/High-Temperature-Vacuum-Furnace-Series-1700_1601008529540.html"
+        },
+        {
+          "supplier_name": "Zhengzhou Brother Furnace Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 4000,
+          "price_high_usd": 5000,
+          "lead_time_days": 35,
+          "availability_notes": "Small to medium vacuum furnaces. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/vacuum-furnace-price.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "induction-heating-furnace",
+      "name": "Induction Heating Furnace",
+      "industry": "Metallurgy / Heat Treatment",
+      "category": "Heat Treatment Furnaces",
+      "description": "Induction furnaces use electromagnetic induction to heat metal inside a crucible. They heat the material from within and can operate under vacuum or inert atmospheres for clean, efficient melting and heat treatment.",
+      "suppliers": [
+        {
+          "supplier_name": "Nadir Lamamra",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 9560,
+          "price_high_usd": 9560,
+          "lead_time_days": 14,
+          "availability_notes": "50 kg/h capacity, 1 set available (EXW price). Local availability",
+          "product_url": "https://www.ouedkniss.com/industrie-fabrication-four-a-induction-skikda-algerie-d50509156"
+        },
+        {
+          "supplier_name": "Risequipment Trading Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 899,
+          "price_high_usd": 1180,
+          "lead_time_days": 25,
+          "availability_notes": "Small induction heating units. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/induction-heating-furnace-price.html"
+        },
+        {
+          "supplier_name": "Zhengzhou Heat Induction Equipment Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 6099,
+          "price_high_usd": 6099,
+          "lead_time_days": 30,
+          "availability_notes": "Mid-capacity induction furnaces. Estimated delivery*",
+          "product_url": "https://www.alibaba.com/showroom/induction-heating-furnace-price.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "injection-molding-machine",
+      "name": "Injection Molding Machine",
+      "industry": "Plastics",
+      "category": "Injection Molding",
+      "description": "Injection molding machines produce plastic parts by injecting molten plastic into a mold under high pressure. They are widely used in manufacturing plastic products ranging from small components to large containers.",
+      "suppliers": [
+        {
+          "supplier_name": "AFC Industry",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 15000,
+          "price_high_usd": 40000,
+          "lead_time_days": 60,
+          "availability_notes": "Local distributor for injection molding machines. Contact for exact pricing. Estimated range for standard models*",
+          "product_url": "https://afcindustry-dz.com/"
+        },
+        {
+          "supplier_name": "Novum Industrial Consulting Services",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 18000,
+          "price_high_usd": 50000,
+          "lead_time_days": 60,
+          "availability_notes": "Contact for details on machines and availability. Industrial consulting and equipment supply. Estimated range*",
+          "product_url": "https://novumdz.com/"
+        },
+        {
+          "supplier_name": "APSX",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 13500,
+          "price_high_usd": 13500,
+          "lead_time_days": 14,
+          "availability_notes": "Small-scale injection press, limited production rate. Desktop unit",
+          "product_url": "https://apsx.com/product/apsx-pim-v3/"
+        },
+        {
+          "supplier_name": "Actionbox",
+          "supplier_country": "Canada",
+          "is_in_algeria": false,
+          "price_low_usd": 2599,
+          "price_high_usd": 2599,
+          "lead_time_days": 7,
+          "availability_notes": "Desktop hobby machine, in stock",
+          "product_url": "https://actionbox.ca"
+        },
+        {
+          "supplier_name": "Shenzhou Machinery",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 8000,
+          "price_high_usd": 10000,
+          "lead_time_days": 30,
+          "availability_notes": "Full-auto all-electric models available. Standard delivery time",
+          "product_url": "https://www.alibaba.com/showroom/injection-molding-machine.html"
+        },
+        {
+          "supplier_name": "Anke Machinery",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 12500,
+          "price_high_usd": 14500,
+          "lead_time_days": 30,
+          "availability_notes": "High-speed vertical injection units. Standard delivery",
+          "product_url": "https://www.alibaba.com/showroom/injection-molding-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "extruder-machine",
+      "name": "Extruder Machine",
+      "industry": "Plastics",
+      "category": "Extrusion",
+      "description": "Extrusion machines continuously shape molten plastic by forcing it through a die, producing items like pipes, sheets, and films.",
+      "suppliers": [
+        {
+          "supplier_name": "SAFMOD",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 20000,
+          "price_high_usd": 60000,
+          "lead_time_days": 90,
+          "availability_notes": "Local industrial equipment supplier for extrusion lines. Contact for products. Estimated range*",
+          "product_url": "https://dz.kompass.com/a/extrudeuses-pour-matieres-plastiques/5330001/"
+        },
+        {
+          "supplier_name": "Giny Partner",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 25000,
+          "price_high_usd": 70000,
+          "lead_time_days": 90,
+          "availability_notes": "Deals in extrusion lines for plastics and confectionery. Estimated range for complete lines*",
+          "product_url": "https://dz.kompass.com/a/extrudeuses-pour-matieres-plastiques/5330001/"
+        },
+        {
+          "supplier_name": "QDFullwin Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 7997,
+          "price_high_usd": 8000,
+          "lead_time_days": 35,
+          "availability_notes": "Manufacturer of plastic sheet and film extruders. Standard delivery time",
+          "product_url": "https://qdfullwin.en.alibaba.com"
+        },
+        {
+          "supplier_name": "LZ Junlite Industry Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 6400,
+          "price_high_usd": 14000,
+          "lead_time_days": 30,
+          "availability_notes": "Extruders for compounding and pelletizing. Various capacities",
+          "product_url": "https://lzjunlite.en.alibaba.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "blow-molding-machine",
+      "name": "Blow Molding Machine",
+      "industry": "Plastics",
+      "category": "Blow Molding",
+      "description": "Blow molding machines form hollow plastic parts (such as bottles or containers) by inflating heated plastic inside a mold cavity.",
+      "suppliers": [
+        {
+          "supplier_name": "EPSIAL, Sarl",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 12000,
+          "price_high_usd": 35000,
+          "lead_time_days": 75,
+          "availability_notes": "Distributor of extrusion blow molding equipment in Algeria. Estimated range*",
+          "product_url": "https://dz.kompass.com/a/machines-pour-le-moulage-des-plastiques-par-injection-soufflage/5340025/"
+        },
+        {
+          "supplier_name": "Novum Industrial Consulting Services",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 15000,
+          "price_high_usd": 40000,
+          "lead_time_days": 75,
+          "availability_notes": "Offers injection and blow molding solutions. Contact for specifics. Estimated range*",
+          "product_url": "https://novumdz.com/"
+        },
+        {
+          "supplier_name": "Waton Group",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2700,
+          "price_high_usd": 3000,
+          "lead_time_days": 25,
+          "availability_notes": "Semi-automatic PET bottle blow molder. Entry-level machines",
+          "product_url": "https://watongroup.en.alibaba.com"
+        },
+        {
+          "supplier_name": "Anke Machinery",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 16000,
+          "price_high_usd": 18000,
+          "lead_time_days": 35,
+          "availability_notes": "Automatic PET bottle blowing machines. High-speed production",
+          "product_url": "https://www.alibaba.com/showroom/blow-molding-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "compression-molding-machine",
+      "name": "Compression Molding Machine",
+      "industry": "Plastics/Rubber",
+      "category": "Compression Molding",
+      "description": "Compression molding machines shape materials by applying heat and pressure to a preform or resin in a closed mold. Used for thermosetting plastics, rubbers, and composites.",
+      "suppliers": [
+        {
+          "supplier_name": "Novum Industrial Consulting Services",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 10000,
+          "price_high_usd": 30000,
+          "lead_time_days": 60,
+          "availability_notes": "Provides industrial machinery including compression molding presses. Inquire for details. Estimated range*",
+          "product_url": "https://novumdz.com/"
+        },
+        {
+          "supplier_name": "EPSIAL, Sarl",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 8000,
+          "price_high_usd": 25000,
+          "lead_time_days": 60,
+          "availability_notes": "Offers rubber processing and molding machines including hydraulic presses. Estimated range*",
+          "product_url": "https://dz.kompass.com/a/machines-pour-le-moulage-des-plastiques-par-injection-soufflage/5340025/"
+        },
+        {
+          "supplier_name": "Qingdao Jucai Machine Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2999,
+          "price_high_usd": 3199,
+          "lead_time_days": 30,
+          "availability_notes": "Hydraulic vulcanization press for rubber and composites",
+          "product_url": "https://jucaimachine.en.alibaba.com"
+        },
+        {
+          "supplier_name": "Zhangjiagang Huili Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 4100,
+          "price_high_usd": 5100,
+          "lead_time_days": 30,
+          "availability_notes": "Compression molding machines for rubber products",
+          "product_url": "https://huilimachinery.en.alibaba.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "thermoforming-machine",
+      "name": "Thermoforming Machine",
+      "industry": "Plastics",
+      "category": "Thermoforming",
+      "description": "Thermoforming machines heat plastic sheets and then form them into shapes using molds and vacuum or pressure. Commonly used to make packaging trays and food containers.",
+      "suppliers": [
+        {
+          "supplier_name": "SIMETUD, EURL",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 15000,
+          "price_high_usd": 45000,
+          "lead_time_days": 75,
+          "availability_notes": "Specializes in vacuum forming equipment for food packaging industry. Estimated range*",
+          "product_url": "https://lb.kompass.com/z/dz/a/thermoforming-machines-for-plastics/53450/"
+        },
+        {
+          "supplier_name": "Sunpack, EURL",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 18000,
+          "price_high_usd": 50000,
+          "lead_time_days": 75,
+          "availability_notes": "Supplier of thermoforming and packaging machinery in Algeria. Estimated range*",
+          "product_url": "https://lb.kompass.com/z/dz/a/thermoforming-machines-for-plastics/53450/"
+        },
+        {
+          "supplier_name": "LKDEYI (Changzhou) Plastic Machinery Co., Ltd.",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 45000,
+          "lead_time_days": 45,
+          "availability_notes": "Automatic biodegradable container thermoforming systems",
+          "product_url": "https://lkdeyi.en.alibaba.com"
+        },
+        {
+          "supplier_name": "YNCNC (Poland)",
+          "supplier_country": "Poland",
+          "is_in_algeria": false,
+          "price_low_usd": 2100,
+          "price_high_usd": 2400,
+          "lead_time_days": 20,
+          "availability_notes": "Desktop vacuum forming thermoforming machines",
+          "product_url": "https://yncnc.en.alibaba.com"
+        }
+      ]
+    },
+
+    {
+      "machine_id": "vertical_form_fill_seal_machine",
+      "name": "Vertical Form Fill Seal Machine",
+      "industry": "Packaging",
+      "category": "Form Fill Seal",
+      "description": "A vertical form-fill-seal (VFFS) machine automatically forms pouches from flexible film, fills them with product, and seals them. Widely used in food, pharmaceutical, and chemical industries for packaging powders, grains, liquids, and snacks. For example, FusionTech Algeria offers a VFFS model that is listed as in stock for immediate supply.",
+      "suppliers": [
+        {
+          "supplier_name": "FusionTech International",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "In stock",
+          "product_url": "https://dz.fusiontechint.com/products/fill-form-and-sealing-machine.html"
+        },
+        {
+          "supplier_name": "SAM Machinery",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://www.sam-machinery.com/"
+        },
+        {
+          "supplier_name": "TopYMACHINERY",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 7000,
+          "price_high_usd": 16000,
+          "lead_time_days": 0,
+          "availability_notes": "Ready to ship",
+          "product_url": "https://www.alibaba.com/showroom/vertical-form-fill-seal-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "liquid_filling_machine",
+      "name": "Liquid Filling Machine",
+      "industry": "Packaging",
+      "category": "Filling Machine",
+      "description": "Liquid filling machines automate the dispensing of liquid products (water, oils, sauces, etc.) into bottles or containers. They can be piston-driven or pump-based with high precision. Innovex Algeria lists piston and pump-driven fillers that can handle 20 to 17000 ml/min, suitable for food, cosmetic, and pharmaceutical industries.",
+      "suppliers": [
+        {
+          "supplier_name": "Innovex Machines",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/remplisseuse/remplisseuse-liquide/"
+        },
+        {
+          "supplier_name": "SAM Machinery",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://www.sam-machinery.com/"
+        },
+        {
+          "supplier_name": "Shean Machine",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2703,
+          "price_high_usd": 2703,
+          "lead_time_days": 0,
+          "availability_notes": "Made to order",
+          "product_url": "https://www.alibaba.com/showroom/liquid-filling-machine-alibaba.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "capping_machine",
+      "name": "Capping Machine",
+      "industry": "Packaging",
+      "category": "Capping",
+      "description": "Capping machines automate the application of caps onto bottles or containers (screw caps, push-on caps, etc.), ensuring fast and accurate closure. They are common in beverage, cosmetic, and pharmaceutical production. Innovex Algeria offers a lateral electric capper (model XLG-63) for 16–50 mm caps.",
+      "suppliers": [
+        {
+          "supplier_name": "Innovex Machines",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/bouchonneuse/"
+        },
+        {
+          "supplier_name": "SAM Machinery",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://www.sam-machinery.com/"
+        },
+        {
+          "supplier_name": "Yusheng Machinery",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 1168,
+          "price_high_usd": 1168,
+          "lead_time_days": 0,
+          "availability_notes": "Ready to ship",
+          "product_url": "https://www.alibaba.com/showroom/capping-machine-price.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "labeling_machine",
+      "name": "Labeling Machine",
+      "industry": "Packaging",
+      "category": "Labeling",
+      "description": "Labeling machines apply adhesive labels to products or packaging surfaces (bottles, boxes, etc.) quickly and precisely. They range from manual applicators to fully automatic systems. For example, Alibaba lists square-bottle automatic labelers around $3800, and local suppliers like SAM Machinery offer automatic labeling solutions.",
+      "suppliers": [
+        {
+          "supplier_name": "Innovex Machines",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/etiqueteuses/etiqueteuses-manuelle/"
+        },
+        {
+          "supplier_name": "SAM Machinery",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://www.sam-machinery.com/"
+        },
+        {
+          "supplier_name": "ChinaKingMachine",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 3800,
+          "price_high_usd": 3800,
+          "lead_time_days": 0,
+          "availability_notes": "Made to order",
+          "product_url": "https://www.alibaba.com/showroom/labeling-machine.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "sealing_machine",
+      "name": "Sealing Machine",
+      "industry": "Packaging",
+      "category": "Sealing",
+      "description": "Sealing machines close bags or films by applying heat and pressure. Continuous band sealers or impulse sealers are typical in packaging lines to hermetically seal bags of products. Innovex Algeria supplies continuous sealers (e.g. model FRBM-810I for horizontal bag sealing).",
+      "suppliers": [
+        {
+          "supplier_name": "Innovex Machines",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/soudeuses/soudeuses-continue/"
+        },
+        {
+          "supplier_name": "SAM Machinery",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact supplier for pricing",
+          "product_url": "https://www.sam-machinery.com/"
+        },
+        {
+          "supplier_name": "Huaqiao Packaging Machinery",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 430,
+          "price_high_usd": 500,
+          "lead_time_days": 0,
+          "availability_notes": "In stock",
+          "product_url": "https://www.alibaba.com/countrysearch/CN/continuous-bag-sealing-machines.html"
+        }
+      ]
+    },
+    {
+      "machine_id": "coordinate_measuring_machine",
+      "name": "Coordinate Measuring Machine (CMM)",
+      "industry": "Manufacturing/Metrology",
+      "category": "Measurement and Inspection",
+      "description": "Device that measures the geometry of physical objects by sensing discrete points on the object's surface.",
+      "suppliers": [
+        {
+          "supplier_name": "Esclab Algérie",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact vendor",
+          "product_url": "https://esclab-algerie.com"
+        },
+        {
+          "supplier_name": "Mesurelec Electronic",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact vendor",
+          "product_url": "https://mesurelecdz.com"
+        },
+        {
+          "supplier_name": "Renishaw",
+          "supplier_country": "UK",
+          "is_in_algeria": false,
+          "price_low_usd": 30000,
+          "price_high_usd": 60000,
+          "lead_time_days": 0,
+          "availability_notes": "Contact vendor",
+          "product_url": "https://www.renishaw.com/en/cmms-probes-software-and-retrofits--6329"
+        },
+        {
+          "supplier_name": "Zeiss",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Contact vendor",
+          "product_url": "https://zeiss.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "x_ray_inspection_machine",
+      "name": "X-Ray Inspection Machine",
+      "industry": "Inspection",
+      "category": "Imaging",
+      "description": "Uses X-rays to inspect the internal structure of objects for defects or quality control.",
+      "suppliers": [
+        {
+          "supplier_name": "Medical Systems Algérie",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "http://msamed.com"
+        },
+        {
+          "supplier_name": "Rescue and Medical System (REMED)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": ""
+        },
+        {
+          "supplier_name": "MKT Technology",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://en.mkt-p.com/cy/dtl/Encsprodetail_1/Algeria-1055510340508004352.html"
+        },
+        {
+          "supplier_name": "Fatali-Med",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 2030,
+          "price_high_usd": 2030,
+          "lead_time_days": 0,
+          "availability_notes": "Promotional price",
+          "product_url": "https://fatali-med.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "hardness_testing_machine",
+      "name": "Hardness Testing Machine",
+      "industry": "Materials Testing",
+      "category": "Quality Testing",
+      "description": "Instrument to measure the hardness of materials, i.e. resistance to deformation or indentation.",
+      "suppliers": [
+        {
+          "supplier_name": "Mesurelec Electronic",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://mesurelecdz.com"
+        },
+        {
+          "supplier_name": "Pumpex Algeria",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://pumpex-algeria.dz"
+        },
+        {
+          "supplier_name": "Mitutoyo",
+          "supplier_country": "Japan",
+          "is_in_algeria": false,
+          "price_low_usd": 10680,
+          "price_high_usd": 10680,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.mitutoyo.co.jp"
+        },
+        {
+          "supplier_name": "Tinius Olsen",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.tiniusolsen.com/product-category/indentation-hardness-testers/"
+        }
+      ]
+    },
+    {
+      "machine_id": "spectrometer",
+      "name": "Spectrometer",
+      "industry": "Analytical Instruments",
+      "category": "Spectroscopy",
+      "description": "Instrument for measuring properties of light or atomic emissions to analyze material composition.",
+      "suppliers": [
+        {
+          "supplier_name": "SINAL (Agilent distributor)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "Authorized distributor",
+          "product_url": "https://www.sinaldz.com"
+        },
+        {
+          "supplier_name": "Thermo Fisher Scientific",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 50000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.thermofisher.com"
+        },
+        {
+          "supplier_name": "Agilent Technologies",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 50000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.agilent.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "digital_microscope",
+      "name": "Digital Microscope",
+      "industry": "Optical Instruments",
+      "category": "Microscopy",
+      "description": "Microscope with built-in digital imaging to magnify and capture images of samples.",
+      "suppliers": [
+        {
+          "supplier_name": "AM Tech Store",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 65,
+          "price_high_usd": 65,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.ouedkniss.com/store/17707/am-tech-store"
+        },
+        {
+          "supplier_name": "EURL Clinidiag",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": ""
+        },
+        {
+          "supplier_name": "Accu-Scope",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 2525,
+          "price_high_usd": 2525,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://accu-scope.com"
+        },
+        {
+          "supplier_name": "Leica Microsystems",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://leica-microsystems.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "automated_guided_vehicle",
+      "name": "Automated Guided Vehicle (AGV)",
+      "industry": "Material Handling",
+      "category": "Warehouse Automation",
+      "description": "Battery-powered vehicle that follows fixed paths or tracks to move materials in a facility.",
+      "suppliers": [
+        {
+          "supplier_name": "KION (Linde Material Handling)",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 14000,
+          "price_high_usd": 80000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/"
+        },
+        {
+          "supplier_name": "Seegrid Corporation",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 14000,
+          "price_high_usd": 80000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://seegrid.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "autonomous_mobile_robot",
+      "name": "Autonomous Mobile Robot (AMR)",
+      "industry": "Logistics",
+      "category": "Warehouse Automation",
+      "description": "Mobile robot that navigates using built-in sensors and maps without fixed guides.",
+      "suppliers": [
+        {
+          "supplier_name": "ANYbotics",
+          "supplier_country": "Switzerland",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://anybotics.com"
+        },
+        {
+          "supplier_name": "Boston Dynamics",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 74000,
+          "price_high_usd": 74000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://bostondynamics.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "automated_storage_and_retrieval_system",
+      "name": "Automated Storage and Retrieval System (AS/RS)",
+      "industry": "Logistics",
+      "category": "Material Handling",
+      "description": "Mechanized system of lifts or shuttles for storing and retrieving goods in warehouses.",
+      "suppliers": [
+        {
+          "supplier_name": "Kardex Remstar",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 750000,
+          "price_high_usd": 1500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.kardex-remstar.com"
+        },
+        {
+          "supplier_name": "Dematic",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 750000,
+          "price_high_usd": 1500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.dematic.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "robotic_arm",
+      "name": "Robotic Arm",
+      "industry": "Automation",
+      "category": "Robotics",
+      "description": "Programmable manipulator arm used for handling, welding, painting, and other automated tasks.",
+      "suppliers": [
+        {
+          "supplier_name": "Universal Robots",
+          "supplier_country": "Denmark",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.universal-robots.com"
+        },
+        {
+          "supplier_name": "KUKA Robotics",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.kuka.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "collaborative_robot",
+      "name": "Collaborative Robot (Cobot)",
+      "industry": "Automation",
+      "category": "Robotics",
+      "description": "Robot designed to safely operate alongside human workers without extensive guarding.",
+      "suppliers": [
+        {
+          "supplier_name": "Universal Robots",
+          "supplier_country": "Denmark",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 75000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.universal-robots.com/"
+        },
+        {
+          "supplier_name": "ABB Robotics",
+          "supplier_country": "Sweden",
+          "is_in_algeria": false,
+          "price_low_usd": 25000,
+          "price_high_usd": 75000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.abb.com/global/en/areas/robotics/products/robots/collaborative-robots/dual-arm-yumi"
+        }
+      ]
+    },
+    {
+      "machine_id": "air_compressor",
+      "name": "Air Compressor",
+      "industry": "Utilities",
+      "category": "Compressed Air Systems",
+      "description": "Machine that compresses and delivers pressurized air for industrial uses.",
+      "suppliers": [
+        {
+          "supplier_name": "ENTEC Industrie (Kaeser distributor)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://entec-industrie.com"
+        },
+        {
+          "supplier_name": "Atlas Copco",
+          "supplier_country": "Sweden",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.atlascopco.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "industrial_chiller",
+      "name": "Industrial Chiller",
+      "industry": "HVAC",
+      "category": "Cooling Equipment",
+      "description": "Machine that cools fluids or air by removing heat via refrigeration processes.",
+      "suppliers": [
+        {
+          "supplier_name": "Djenair (YORK distributor)",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.djenair.com"
+        },
+        {
+          "supplier_name": "YORK (Johnson Controls)",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.york.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "industrial_boiler",
+      "name": "Industrial Boiler",
+      "industry": "Utilities",
+      "category": "Boilers",
+      "description": "Boiler for producing steam or hot water for power and industrial processes.",
+      "suppliers": [
+        {
+          "supplier_name": "Alioua Chaudronnerie",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://alioua-chaudronnerie.com"
+        },
+        {
+          "supplier_name": "Cleaver-Brooks",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 30000,
+          "price_high_usd": 500000,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.cleaverbrooks.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "industrial_pump",
+      "name": "Industrial Pump",
+      "industry": "Fluid Handling",
+      "category": "Pumps",
+      "description": "Pump used to move fluids (liquids or gases) in industrial systems.",
+      "suppliers": [
+        {
+          "supplier_name": "Sarl Pumpex Algeria",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://pumpex-algeria.dz"
+        },
+        {
+          "supplier_name": "SARL MIA EBARA",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://sarlmia.com/"
+        },
+        {
+          "supplier_name": "Grundfos",
+          "supplier_country": "Denmark",
+          "is_in_algeria": false,
+          "price_low_usd": 309,
+          "price_high_usd": 5193,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.grundfos.com"
+        },
+        {
+          "supplier_name": "KSB",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 309,
+          "price_high_usd": 5193,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.ksb.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "diesel_generator",
+      "name": "Diesel Generator",
+      "industry": "Power Generation",
+      "category": "Generators",
+      "description": "Engine-driven generator set that produces electrical power using diesel fuel.",
+      "suppliers": [
+        {
+          "supplier_name": "ETKA Power Company",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.etkapower.com"
+        },
+        {
+          "supplier_name": "Caterpillar",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 1308700,
+          "price_high_usd": 1308700,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.cat.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "welding_machine",
+      "name": "Welding Machine",
+      "industry": "Fabrication",
+      "category": "Welding Equipment",
+      "description": "Equipment for fusing materials (typically metals) together, such as arc welders and TIG welders.",
+      "suppliers": [
+        {
+          "supplier_name": "CPH Hydraulique",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.cph-hydro.com"
+        },
+        {
+          "supplier_name": "Lincoln Electric",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 3624,
+          "price_high_usd": 3624,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.lincolnelectric.com"
+        },
+        {
+          "supplier_name": "Miller Electric",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 100102,
+          "price_high_usd": 100102,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.millerwelds.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "automatic_screwdriving_machine",
+      "name": "Automatic Screwdriving Machine",
+      "industry": "Assembly Automation",
+      "category": "Assembly Equipment",
+      "description": "Machine that automatically feeds screws and fastens them, for high-speed assembly.",
+      "suppliers": [
+        {
+          "supplier_name": "Sella Industrie",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "http://www.sellaindustrie.com"
+        },
+        {
+          "supplier_name": "Desoutter Industrial Tools",
+          "supplier_country": "France",
+          "is_in_algeria": false,
+          "price_low_usd": 725,
+          "price_high_usd": 5200,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://industrialtools.desoutter.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "paint_spray_booth",
+      "name": "Paint Spray Booth",
+      "industry": "Automotive / Finishing",
+      "category": "Paint Equipment",
+      "description": "Enclosed booth for spray painting parts or vehicles, with ventilation and filtration.",
+      "suppliers": [
+        {
+          "supplier_name": "GlobalCabine",
+          "supplier_country": "Algeria",
+          "is_in_algeria": true,
+          "price_low_usd": 0,
+          "price_high_usd": 0,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://globalcabine.com/categorie-produit/cabine-de-peinture/"
+        },
+        {
+          "supplier_name": "Cook Manufacturing",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 1390,
+          "price_high_usd": 5580,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://cookmfg.com"
+        }
+      ]
+    },
+    {
+      "machine_id": "vibratory_deburring_machine",
+      "name": "Vibratory Deburring Machine",
+      "industry": "Surface Finishing",
+      "category": "Finishing Equipment",
+      "description": "Equipment that uses high-frequency vibrations to remove burrs and polish small parts.",
+      "suppliers": [
+        {
+          "supplier_name": "Giant Finishing",
+          "supplier_country": "USA",
+          "is_in_algeria": false,
+          "price_low_usd": 10950,
+          "price_high_usd": 10950,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://giantfinishing.com"
+        },
+        {
+          "supplier_name": "OTEC Präzisionsfinish",
+          "supplier_country": "Germany",
+          "is_in_algeria": false,
+          "price_low_usd": 10950,
+          "price_high_usd": 10950,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://otec.de"
+        }
+      ]
+    },
+    {
+      "machine_id": "ultrasonic_cleaning_machine",
+      "name": "Ultrasonic Cleaning Machine",
+      "industry": "Cleaning Equipment",
+      "category": "Ultrasonic Cleaners",
+      "description": "Cleaning device that uses ultrasound waves and a cleaning fluid to remove contamination from items.",
+      "suppliers": [
+        {
+          "supplier_name": "Daihan Scientific",
+          "supplier_country": "South Korea",
+          "is_in_algeria": false,
+          "price_low_usd": 2400,
+          "price_high_usd": 2400,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.daihan-sci.com"
+        },
+        {
+          "supplier_name": "BIOBASE",
+          "supplier_country": "China",
+          "is_in_algeria": false,
+          "price_low_usd": 800,
+          "price_high_usd": 1250,
+          "lead_time_days": 0,
+          "availability_notes": "",
+          "product_url": "https://www.biobase.com/product-list/ultrasonic-cleaner"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.tcm.eu",
+    "https://orizengroup.com/blog/9-Benefits-of-Electric-Counterbalance-Forklift-Truck.php",
+    "https://en.wikipedia.org/wiki/Forklift",
+    "https://www.bigrentz.com/blog/forklift-types",
+    "https://innovexalgerie.com/manutention/produit/chariot-elevateur-electrique-fe4p-20-25n/",
+    "https://www.istocforklift.com/",
+    "https://ep-equipment.en.made-in-china.com",
+    "https://www.made-in-china.com/manufacturers/algeria-forklift.html",
+    "https://shinetruck.en.made-in-china.com",
+    "https://www.still.dz/",
+    "http://www.unimena.com",
+    "https://ltmgforklift.com/",
+    "https://rtx.en.alibaba.com",
+    "http://fayalift.com",
+    "https://chinaforklift.en.alibaba.com",
+    "https://www.refurbishedlifts.com/category/order-picker",
+    "https://www.manitou.com/fr/Chariots-elevateurs-tout-terrain",
+    "https://tirsam.com",
+    "https://cnchinaway.en.alibaba.com",
+    "https://www.made-in-china.com/cn/yeaweyda",
+    "https://www.ouedkniss.com",
+    "https://azarmachines.com/",
+    "https://www.globalindustrial.com/c/material-handling/lift-trucks/manual-pallet-trucks",
+    "https://djr-dz.com/",
+    "https://ubuy.dz/en/p/lcdcnc-fraiseuse-cnc-4040-pro",
+    "https://www.alibaba.com",
+    "https://www.3erp.com/blog/cnc-grinding/",
+    "https://www.3erp.com/blog/wire-edm-cutting/",
+    "https://www.accurl.com/blog/laser-cutting/",
+    "https://ajaxelectric.com/salt-bath-furnaces/",
+    "https://www.azom.com/article.aspx?ArticleID=22906",
+    "https://en.wikipedia.org/wiki/Induction_heating",
+    "https://dz.kompass.com/",
+    "https://afcindustry-dz.com/",
+    "https://www.dakumar.com/injection-machine-manufacturer.html",
+    "https://novumdz.com/",
+    "https://apsx.com/product/apsx-pim-v3/",
+    "https://actionbox.ca",
+    "https://lb.kompass.com/",
+    "https://dz.fusiontechint.com/products/fill-form-and-sealing-machine.html",
+    "https://www.sam-machinery.com/",
+    "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/remplisseuse/remplisseuse-liquide/",
+    "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/bouchonneuse/",
+    "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/etiqueteuses/etiqueteuses-manuelle/",
+    "https://innovexalgerie.com/machines/categorie-produit/machines-demballage/soudeuses/soudeuses-continue/",
+    "https://www.alibaba.com/showroom/vertical-form-fill-seal-machine.html",
+    "https://www.alibaba.com/showroom/liquid-filling-machine-alibaba.html",
+    "https://www.alibaba.com/showroom/capping-machine-price.html",
+    "https://www.alibaba.com/showroom/labeling-machine.html",
+    "https://www.alibaba.com/countrysearch/CN/continuous-bag-sealing-machines.html",
+    "https://en.wikipedia.org/wiki/Coordinate-measuring_machine",
+    "https://en.mkt-p.com/cy/dtl/Encsprodetail_1/Algeria-1055510340508004352.html",
+    "https://www.fatali-med.com/news/23rd-anniversary-international-authorized-distributors",
+    "https://www.fatali-med.com/news/veterinary-promo",
+    "https://www.willrich.com/product/hardness-testing/HARDNESS+TESTER",
+    "https://www.measurementsupply.com/product/MITUTOYO-HR-320-MS",
+    "https://labx.com",
+    "https://accu-scope.com",
+    "https://agvnetwork.com",
+    "https://www.standardbots.com/robot-costs",
+    "https://www.kardex-remstar.com",
+    "https://entec-industrie.com",
+    "https://www.djenair.com",
+    "https://alioua-chaudronnerie.com",
+    "https://coalbiomassboiler.com",
+    "https://www.pumpex-algeria.dz",
+    "https://sprayersupplies.com/centrifugal-pumps",
+    "https://www.etkapower.com",
+    "https://www.uspeglobal.com/listings/7726610-2-mw-2025-new-caterpillar-3516c-diesel-generator-set",
+    "https://www.cph-hydro.com/categorie-produit/machines-de-soudage",
+    "https://www.weldersupply.com",
+    "https://www.alibaba.com/showroom/automatic-screwdriver-machine.html",
+    "https://cookmfg.com/product-category/paint-booths",
+    "https://www.giantfinishing.com/listings/1061095-giant-w-5-vibratory-finishing-machine",
+    "https://store.microbiotech.dz/index.php/produit/bain-a-ultrasons-daihan",
+    "https://mesurelecdz.com",
+    "http://msamed.com",
+    "https://fatali-med.com",
+    "https://www.renishaw.com/en/cmms-probes-software-and-retrofits--6329",
+    "https://www.tiniusolsen.com/product-category/indentation-hardness-testers/",
+    "https://www.thermofisher.com",
+    "https://www.ouedkniss.com/store/17707/am-tech-store",
+    "https://sarlmia.com/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.universal-robots.com/",
+    "https://www.abb.com/global/en/areas/robotics/products/robots/collaborative-robots/dual-arm-yumi",
+    "https://globalcabine.com/categorie-produit/cabine-de-peinture/",
+    "https://www.daihan-sci.com",
+    "https://www.biobase.com/product-list/ultrasonic-cleaner"
+  ]
+}
